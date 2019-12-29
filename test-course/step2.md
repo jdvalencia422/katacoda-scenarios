@@ -4,6 +4,6 @@ Type the following basic docker commands and discover their outpust and argument
 
 - docker version: View components versions as a server, client and Api.
 
-- docker images: List docker images, default in docker registry local.
+- docker images: List docker images, default in local docker registry.
 
 - docker ps: List run container. (with -a argument, list all containers run and stop).
