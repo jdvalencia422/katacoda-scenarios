@@ -1,16 +1,16 @@
 {
-  "title": "devops",
-  "description": "test",
+  "title": "Devops",
+  "description": "Devops Test Course",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
     "steps": [
       {
-        "title": "Devops - Docker Basic",
+        "title": "1.1 Concepts Docker",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "1.2 Commands basic Docker",
         "text": "step2.md"
       }
     ],
