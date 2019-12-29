@@ -10,8 +10,12 @@
         "text": "step1.md"
       },
       {
-        "title": "1.2 Commands basic Docker",
+        "title": "1.2 Basic Commands",
         "text": "step2.md"
+      },
+      {
+        "title": "1.2 Basic Commands",
+        "text": "step3.md"
       }
     ],
     "intro": {
