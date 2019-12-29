@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 Docker",
+        "title": "Step 1 Docker Basic",
         "text": "step1.md"
       }
     ],
